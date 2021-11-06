@@ -1,2 +1,4 @@
 # java-tutoriel
-Ici, on apprend la base de la programmation en java
+we are at the level of beginners in java programing
+we will follow by the intermediate level and then professional level
+during this tutorials, we are to build alot of projects with java
